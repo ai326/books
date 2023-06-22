@@ -1,0 +1,44 @@
+.navbar{
+    padding-left:50px;
+    padding-top:100px;}
+
+
+.display-5{
+    text-align:center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: Garamond;}
+
+
+.home{
+    border-radius:50%
+}
+
+header{
+    background-color:lavenderblush;
+}
+
+.card-group{
+    background-color:lavenderblush;
+    font-family: Garamond;
+}
+
+.card-group1{
+    font-family:Garamond;
+    background-color:lavenderblush;
+}
+
+body{
+    background-color:lavenderblush;
+}
+
+.nav-item{
+    font-family: Garamond;
+    color: black;
+}
+footer p{
+    text-align:center;
+    padding-top: 30px;
+    font-family: Garamond;
+    background-color: lavenderblush;
+}

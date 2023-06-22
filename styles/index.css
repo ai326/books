@@ -1,0 +1,65 @@
+h1{
+    text-align:center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.navbar{
+    padding-left:50px;
+    padding-top:110px;
+
+}
+.nav-item{
+    font-family: Garamond;
+    color:black;
+}
+.home{
+    border-radius: 50%;
+}
+
+.pic1{
+    padding-left:55px;
+    padding-top:55px;
+}
+
+.d-grid {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 90px;
+
+}
+.text{
+    padding-top: 50px
+}
+.level1{
+
+    color: goldenrod;
+}
+
+.level2{
+    color: grey;
+}
+
+.level3{
+    color:saddlebrown;
+}
+
+header{
+    background-color:lavenderblush;
+}
+.font{
+    background-color:lavenderblush;
+}
+
+.display-5{
+    font-family: Garamond;
+}
+.text{
+    font-family: Garamond;
+}
+
+footer p{
+    text-align:center;
+    padding-top: 30px;
+    font-family: Garamond;
+}
